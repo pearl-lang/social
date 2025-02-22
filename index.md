@@ -1,5 +1,6 @@
 ---
 layout: default
+mahlas: Pearl Language
 
 github: 
  - pearl-lang
