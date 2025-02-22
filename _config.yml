@@ -1,4 +1,8 @@
-theme: jekyll-linktree
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: lazypwny751/jekyll-linktree
 
 sass:
   style: compressed
